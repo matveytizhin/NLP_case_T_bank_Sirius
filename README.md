@@ -1,4 +1,4 @@
-<img src="https://acdn.tinkoff.ru/static/documents/a7122c42-2231-4a44-8451-b3b3a6288599.png" alt="Т Банк Лого" width="200" align="right" />
+<img src="images/logo.png" alt="Т Банк Лого" width="200" align="right" />
 
 # Классификация отзывов с маркетплейсов с помощью LLM
 
@@ -107,3 +107,10 @@
     -   `dataset_*.csv` (dishes, shoes, и т.д.): Синтетически сгенерированные данные для каждой миноритарной категории.
     -   `df_balanced_train.csv`: Итоговый сбалансированный датасет для обучения.
     -   `y_true.csv`, `y_mistral.csv`: Различные версии меток, использовавшиеся для анализа и сравнения (были получены с помощью saiga_mistral на разных этапах работы)
+
+---
+<br>
+
+| Т-Банк | Т-Образование | Университет Сириус |
+|:---:|:---:|:---:|
+| <img src="images/bank-building.jpg" width="250"> | <img src="images/t-obrazovanie.jpg" width="250"> | <img src="images/university-sirius.jpg" width="250"> 
