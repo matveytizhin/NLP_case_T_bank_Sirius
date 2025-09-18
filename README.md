@@ -78,8 +78,7 @@
 -   **Поведение:** Модель уверенно классифицирует отзывы, где категория явно указана, а также хорошо справляется с нетривиальными случаями, где категория определяется по контексту и описанию, а не по прямому упоминанию товара.
 -   **Развертывание:** Все параметры модели сохранены в архиве `final_rubert_classifier.zip`. Модель также загружена на Hugging Face Hub и готова к использованию через `pipeline`.
 
-<img width="741" height="608" alt="image" src="https://github.com/user-attachments/assets/20376b84-b106-4bd0-9912-2688db1e2fbf" />
-![Uploading image.png…]()
+<img width="741" height="587" alt="image" src="https://github.com/user-attachments/assets/14d1fb3b-eae9-40a2-ab45-4f92431f857f" />
 
 
 
