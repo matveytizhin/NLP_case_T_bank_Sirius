@@ -79,6 +79,8 @@
 -   **Развертывание:** Все параметры модели сохранены в архиве `final_rubert_classifier.zip`. Модель также загружена на Hugging Face Hub и готова к использованию через `pipeline`.
 
 <img width="741" height="608" alt="image" src="https://github.com/user-attachments/assets/20376b84-b106-4bd0-9912-2688db1e2fbf" />
+![Uploading image.png…]()
+
 
 
 ---
