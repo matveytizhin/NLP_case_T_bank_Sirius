@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ixbt.com%2Fnews%2F2024%2F06%2F05%2Ftinkoff-bank--vsjo-ego-pereimenovali-v-tbank.html&psig=AOvVaw0WCTFuWcF08OvidVi2WdtC&ust=1758320101975000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOC0p5Kr448DFQAAAAAdAAAAABAE" alt="Tinkoff Bank Logo" width="200" align="right" />
+<img src="https://acdn.tinkoff.ru/static/documents/a7122c42-2231-4a44-8451-b3b3a6288599.png" alt="Т Банк Лого" width="200" align="right" />
 
 # Классификация отзывов с маркетплейсов с помощью LLM
 
