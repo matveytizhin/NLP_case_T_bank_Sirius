@@ -1,6 +1,9 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tinkoff_Bank_2022_logo.svg/2560px-Tinkoff_Bank_2022_logo.svg.png" alt="Tinkoff Bank Logo" width="200" align="right" />
+
 # Классификация отзывов с маркетплейсов с помощью LLM
 
 ## 1. Описание Задания и Требований
+
 
 ### Цель кейса
 
